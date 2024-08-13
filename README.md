@@ -1,1 +1,2 @@
-# aula-12.08-pt2
+# banner
+Código de html para aula de Pensamento Computacional.
